@@ -1,1 +1,1 @@
-# mean
+Collection of MEAN application
